@@ -1,0 +1,43 @@
+Wed Nov 18 15:20:28 EST 2015 : Intialized branch1.
+Wed Nov 18 15:20:30 EST 2015 : Intialized branch2.
+Wed Nov 18 15:20:32 EST 2015 : Intialized branch3.
+Wed Nov 18 15:20:34 EST 2015 : Intialized branch4.
+Wed Nov 18 15:20:42 EST 2015 : Initialized snapshot message to branch3.
+Wed Nov 18 15:20:48 EST 2015 : Retrieved snapshot from branch1.
+Wed Nov 18 15:20:48 EST 2015 : Retrieved snapshot from branch2.
+Wed Nov 18 15:20:48 EST 2015 : Retrieved snapshot from branch3.
+Wed Nov 18 15:20:48 EST 2015 : Retrieved snapshot from branch4.
+Wed Nov 18 15:20:53 EST 2015 : Initialized snapshot message to branch1.
+Wed Nov 18 15:20:59 EST 2015 : Retrieved snapshot from branch1.
+Wed Nov 18 15:20:59 EST 2015 : Retrieved snapshot from branch2.
+Wed Nov 18 15:20:59 EST 2015 : Retrieved snapshot from branch3.
+Wed Nov 18 15:20:59 EST 2015 : Retrieved snapshot from branch4.
+Wed Nov 18 15:21:04 EST 2015 : Initialized snapshot message to branch1.
+Wed Nov 18 15:21:10 EST 2015 : Retrieved snapshot from branch1.
+Wed Nov 18 15:21:10 EST 2015 : Retrieved snapshot from branch2.
+Wed Nov 18 15:21:10 EST 2015 : Retrieved snapshot from branch3.
+Wed Nov 18 15:21:10 EST 2015 : Retrieved snapshot from branch4.
+Wed Nov 18 15:20:48 EST 2015 : Snapshots retrieved.
+------------------SNAPSHOT 0------------------
+LocalSnapshot(snapshot_num:0, balance:166, messages:[])
+LocalSnapshot(snapshot_num:0, balance:1455, messages:[])
+LocalSnapshot(snapshot_num:0, balance:101, messages:[])
+LocalSnapshot(snapshot_num:0, balance:2308, messages:[])
+
+
+Wed Nov 18 15:20:59 EST 2015 : Snapshots retrieved.
+------------------SNAPSHOT 1------------------
+LocalSnapshot(snapshot_num:1, balance:1105, messages:[])
+LocalSnapshot(snapshot_num:1, balance:496, messages:[])
+LocalSnapshot(snapshot_num:1, balance:1321, messages:[])
+LocalSnapshot(snapshot_num:1, balance:1078, messages:[])
+
+
+Wed Nov 18 15:21:10 EST 2015 : Snapshots retrieved.
+------------------SNAPSHOT 2------------------
+LocalSnapshot(snapshot_num:2, balance:1053, messages:[])
+LocalSnapshot(snapshot_num:2, balance:1, messages:[])
+LocalSnapshot(snapshot_num:2, balance:1843, messages:[])
+LocalSnapshot(snapshot_num:2, balance:1103, messages:[])
+
+
