@@ -1,6 +1,4 @@
 Name: Pradyumna Kaushik
-BNumber: B00594994
-Email: pkaushi1@binghamton.edu
 
 Programming Language used
 -------------------------
@@ -30,7 +28,7 @@ Instructions to compile and run the application
 3. Compile the project using the following command,
 	make
 
-4. Now run the bash script branch.sh on as many ports as required (can be different machines too) using the following command,
+4. Now run the bash script branch.sh on on different machines (has to be different machines as the IP address needs to be different. Just different ports on the same machine won't work) using the following command,
 	./branch.sh <branch name> <port>
 
 5. Update the branches.txt file with the branch name and port number of all the running instances.
