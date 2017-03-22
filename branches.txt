@@ -1,4 +1,4 @@
-branch1 <branch1-ipaddress> <branch1-port>
-branch2 <branch2-ipaddress> <branch2-port>
-branch3 <branch3-ipaddress> <branch3-port>
-branch4 <branch4-ipaddress> <branch4-port>
+<branch1-name> <branch1-ipaddress> <branch1-port>
+<branch2-name> <branch2-ipaddress> <branch2-port>
+<branch3-name> <branch3-ipaddress> <branch3-port>
+<branch4-name> <branch4-ipaddress> <branch4-port>
