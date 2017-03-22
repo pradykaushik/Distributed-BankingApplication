@@ -63,17 +63,17 @@ Sample input/output
 
 Contents of branches.txt :-
 	
-	branch1 128.226.180.162 10001
-	branch2 128.226.180.163 10002
-	branch3 128.226.180.164 10003
-	branch4 128.226.180.165 10004
+	branch1 <branch1-ipaddress> <branch1-port>
+	branch2 <branch2-ipaddress> <branch2-port>
+	branch3 <branch3-ipaddress> <branch3-port>
+	branch4 <branch4-ipaddress> <branch4-port>
 
 Running the branches :-
 	
-	./branch.sh branch1 10001 (Output -> starting branch1 on port : 10001...)
-	./branch.sh branch2 10002 (Output -> starting branch2 on port : 10002...)
-	./branch.sh branch3 10003 (Output -> starting branch3 on port : 10003...)
-	./branch.sh branch4 10004 (Output -> starting branch4 on port : 10004...)
+	./branch.sh branch1 <branch1-port> (Output -> starting branch1 on port : <branch1-port>...)
+	./branch.sh branch2 <branch2-port> (Output -> starting branch2 on port : <branch2-port>...)
+	./branch.sh branch3 <branch3-port> (Output -> starting branch3 on port : <branch3-port>...)
+	./branch.sh branch4 <branch4-port> (Output -> starting branch4 on port : <branch4-port>...)
 
 Running the controller with inital amount = 4000 :-
 	
