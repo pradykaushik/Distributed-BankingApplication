@@ -1,4 +1,4 @@
-branch1 128.226.180.162 10001
-branch2 128.226.180.163 10002
-branch3 128.226.180.164 10003
-branch4 128.226.180.165 10004
+branch1 <branch1-ipaddress> <branch1-port>
+branch2 <branch2-ipaddress> <branch2-port>
+branch3 <branch3-ipaddress> <branch3-port>
+branch4 <branch4-ipaddress> <branch4-port>
